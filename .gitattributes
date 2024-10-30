@@ -12,3 +12,5 @@ yarn.lock                    merge=binary
 # For more information, see this issue: https://github.com/microsoft/rushstack/issues/1088
 #
 *.json                       linguist-language=JSON-with-Comments
+old:file -text working-tree-encoding=UTF-8
+old:file rename-to=new-file
